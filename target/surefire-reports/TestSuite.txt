@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 17.37 s <<< FAILURE! - in TestSuite
+com.epam.tests.CreateNewCustomer_002.registerNewCustomer  Time elapsed: 11.025 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.epam.tests.CreateNewCustomer_002.registerNewCustomer(CreateNewCustomer_002.java:93)
+
